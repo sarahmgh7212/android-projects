@@ -41,5 +41,5 @@
 
     <!-- Google Map-->
 
-    <string name="google_android_map_api_key">AIzaSyBql2c6ePzjY3SMWiNvN_7yMc5Pqf9pFJY</string>
+    <string name="google_android_map_api_key">API Key</string>
 </resources>
