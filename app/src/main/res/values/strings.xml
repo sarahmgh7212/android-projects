@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Movie Planner</string>
+    <string name="add_event">Add Event</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="starttime">Starttime</string>
+    <string name="startdate">startdate</string>
+    <string name="enddate">enddate</string>
+    <string name="endtime">endTime</string>
+    <string name="sort">Sort</string>
+    <string name="desc_sort">Desc_Sort</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="event_title">Event Title</string>
+    <string name="location">Location</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="attendees">Attendees</string>
+    <string name="addmovie">AddMovie</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <array name="departments">
+        <item>Technical</item>
+        <item>Support</item>
+        <item>Research and Development</item>
+        <item>Marketing</item>
+        <item>Human Resource</item>
+    </array>
+
+    <string name="str_rb_driving">Driving</string>
+
+    <string name="sett_reminder_header">Set Reminder</string>
+    <string name="sett_reminder_label">Remind Me</string>
+    <string name="sett_reminder_desc">We will remind you to make entiries of your expense</string>
+    <string name="sett_reminder_time_label">Set Reminder Time</string>
+    <string name="sett_reminder_time_content">7 : 00 PM</string>
+
+    <!-- Google Map-->
+
+    <string name="google_android_map_api_key">AIzaSyBql2c6ePzjY3SMWiNvN_7yMc5Pqf9pFJY</string>
+</resources>

@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/add_event" android:icon="@android:drawable/ic_dialog_info" app:showAsAction="never" android:title="Add Event">
+    </item>
+    <item
+        android:id="@+id/sort"  app:showAsAction="never" android:title="Sort">
+    </item>
+    <item
+        android:id="@+id/desc"  app:showAsAction="never" android:title="Desc Sort">
+    </item>
+    <item
+        android:id="@+id/monthCalender"  app:showAsAction="never" android:title="Month Calender">
+    </item>
+    <item
+        android:id="@+id/weekCalender"  app:showAsAction="never" android:title="week Calender">
+    </item>
+</menu>
